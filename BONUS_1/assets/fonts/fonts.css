@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'FREAKY HALLOWEEN';
+    font-style: normal;
+    font-weight: normal;
+    src: local('freakyHalloween'), url('freakyHalloween.otf') format('opentype');
+}
