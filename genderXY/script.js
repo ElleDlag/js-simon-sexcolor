@@ -11,7 +11,6 @@ p.appendChild(ptext);
 p.appendChild(span);
 document.body.appendChild(p);
 
-
 //function
 function getInfo(){
     name = prompt('inserisci il tuo nome');
